@@ -1,34 +1,55 @@
-# Hey! 👋 I'm Yosif
+# Hi, I’m Yosif Soliman
 
-**Machine Learning Engineer** from Cairo, Egypt 🇪🇬
+AI Engineer based in Cairo, Egypt.
 
-Computer Science graduate passionate about building intelligent systems and exploring the latest in AI research.
+Computer Science graduate focused on building production-grade AI systems, with hands-on experience in LLM tooling, RAG pipelines, and agent-based architectures. Strong interest in system design, efficiency, and applied research.
 
-## 🔍 Currently Exploring
-- Multi-Agent Systems 
-- RAG (Retrieval-Augmented Generation)
+## Current Focus
 
-## 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+* Agentic systems and multi-agent workflows
+* RAG systems for real-world knowledge retrieval
+* Generative AI infrastructure and evaluation
 
-**Languages:** Python • Rust • SQL • C • C#  
-**ML/AI:** PyTorch • TensorFlow • LangChain • Transformers  
-**Tools:** Docker • Git • AWS • GCP
+## Active Project
 
-## 🧠 Research
-Working on **Kolmogorov-Arnold Networks (KANs)** - exploring how they compare to traditional neural architectures. Check out [rough_hook](https://github.com/y0sif/rough_hook) for the implementation.
+**Locked In** – an AI-powered calendar management tool designed to reduce cognitive load and automate scheduling decisions.
 
-## 🤝 Open to Collaborate
-Always interested in **Rust projects** - hit me up if you're building something cool!
+Live demo: [https://locked-in-cm.vercel.app/dashboard](https://locked-in-cm.vercel.app/dashboard)
 
-## 📫 Contact
-📧 yosifsoli981@gmail.com  
-🐙 [@y0sif](https://github.com/y0sif)
+## Technical Stack
+
+**Languages**
+
+* Python, Rust, SQL, JavaScript, C, C#
+
+**AI / ML**
+
+* PyTorch, TensorFlow, Transformers
+* LangChain, LangGraph
+* RAG, LLM evaluation, prompt and workflow design
+
+**Systems & Tools**
+
+* Docker, Git
+* AWS, GCP
+* PostgreSQL, Redis, MongoDB
+* Linux
+
+## Research
+
+Worked on **Kolmogorov-Arnold Networks (KANs)** as part of my bachelor’s project, comparing them against traditional neural networks on chess-related tasks using Rust and Python.
+
+Implementation: [https://github.com/y0sif/rough_hook](https://github.com/y0sif/rough_hook)
+
+## Open Source
+
+Open to contributing to **any open-source project**, especially in AI systems, developer tooling, and infrastructure. Rust is a plus, but not a requirement.
+
+## Contact
+
+* Email: [yosifsoli981@gmail.com](mailto:yosifsoli981@gmail.com)
+* LinkedIn: [https://www.linkedin.com/in/y0sif](https://www.linkedin.com/in/y0sif)
 
 ---
-*Keep learning, keep building* ✨
+
+Focused on shipping useful AI systems and learning by building.
