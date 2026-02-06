@@ -19,21 +19,27 @@ Live demo: [https://locked-in-cm.vercel.app/dashboard](https://locked-in-cm.verc
 ## Technical Stack
 
 **Languages**
-
-* Python, Rust, SQL, JavaScript, C, C#
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript\&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c\&logoColor=black)
+![C%23](https://img.shields.io/badge/C%23-239120?logo=csharp\&logoColor=white)
 
 **AI / ML**
-
-* PyTorch, TensorFlow, Transformers
-* LangChain, LangGraph
-* RAG, LLM evaluation, prompt and workflow design
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow\&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?logo=huggingface\&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=chainlink\&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-2E2E2E?logo=graphql\&logoColor=white)
 
 **Systems & Tools**
-
-* Docker, Git
-* AWS, GCP
-* PostgreSQL, Redis, MongoDB
-* Linux
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws\&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux\&logoColor=black)
 
 ## Research
 
