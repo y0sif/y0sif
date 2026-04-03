@@ -1,19 +1,9 @@
-# Yosif Soliman                                                                                                   
-                                                                                                                    
-10x Engineer                                                                                                      
-  
-## Projects                                                                                                       
-                                                                                                                    
-**[whisrs](https://github.com/y0sif/whisrs)**: voice-to-text dictation for Linux, written in Rust. Press a hotkey, speak, text appears at the cursor.                                                                        
-                                                                                                                    
-## Research
+# Yosif Soliman
 
-Worked on **Kolmogorov-Arnold Networks**: compared KANs against traditional neural networks on chess-related tasks in Rust. Code [rough_hook](https://github.com/y0sif/rough_hook).
+AI engineer. I mostly write Rust and build tools I want to use.
 
-## Open Source
+Right now I'm building [whisrs](https://github.com/y0sif/whisrs) — voice-to-text dictation for Linux.
 
-Contributor to **[Hive](https://github.com/aden-hive/hive)**: outcome-driven agent development framework by Aden.
+I contribute to open source when I can — notably [Hive](https://github.com/aden-hive/hive), an agent framework by Aden.
 
-## Contact
-
-[yosifsoli981@gmail.com](mailto:yosifsoli981@gmail.com) · [LinkedIn](https://www.linkedin.com/in/y0sif)
+[LinkedIn](https://www.linkedin.com/in/y0sif) · [Email](mailto:yosifsoli981@gmail.com)
